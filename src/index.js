@@ -1,5 +1,4 @@
-
-// index.js
+// src/index.js
 var index_default = { async fetch() {
   return Response.redirect("https://docs.blackroad.io", 302);
 } };
